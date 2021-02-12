@@ -19,6 +19,6 @@ The notebook contains calculations of portfolio volatility based on a number of 
 
 Github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph, so the graphs which are plotted using Plotly cannot be displayed in Github. To view the complete notebook with outputs as well, one nice option is to paste the link of GitHub notebook into http://nbviewer.jupyter.org/, which will present a rich view of the notebook.
 
-OR
+<b>OR</b>
 
 Visit https://nbviewer.jupyter.org/github/tejaslinge/Risk-Management-and-Markowitz-Efficient-Frontier/blob/main/Risk%20Measures%20and%20Efficient%20Frontier.ipynb to view complete Jupyter notebook.
