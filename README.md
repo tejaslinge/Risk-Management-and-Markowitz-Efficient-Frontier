@@ -21,5 +21,5 @@ The notebook contains calculations of portfolio volatility based on a number of 
 
 <b>OR</b>
 
-<i>Visit https://nbviewer.jupyter.org/github/tejaslinge/Risk-Management-and-Markowitz-Efficient-Frontier/blob/main/Risk%20Measures%20and%20Efficient%20Frontier.ipynb to view complete Jupyter notebook.
+<i>**Visit https://nbviewer.jupyter.org/github/tejaslinge/Risk-Management-and-Markowitz-Efficient-Frontier/blob/main/Risk%20Measures%20and%20Efficient%20Frontier.ipynb to view complete Jupyter notebook.**********
 </i>
